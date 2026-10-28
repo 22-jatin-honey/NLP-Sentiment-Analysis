@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+artifacts/*.keras
+artifacts/word_index.json
+artifacts/test_metrics.json
